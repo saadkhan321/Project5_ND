@@ -15,7 +15,7 @@ Section 4
 
 This section was re-structured in the following manner:
 
-- Notes have been added to sub-section 4.1 to explain the thought process for feature selection for initial algorithm perfromance evaluation to identify the best performing algorithm
+- Notes have been added to sub-section 4.1 to explain the thought process for feature selection for initial algorithm performance evaluation to identify the best performing algorithm
 
 - Section 4.1 now covers only initial feature selection for comparative algorithm analysis instead of final algorithm feature list
 
@@ -53,7 +53,7 @@ A completely new section, section 8 was created in order to explain the flow of 
 References
 *******************
 
-New resaources consulted for the updated project have been appended to the reference list at the end of the project report
+New resources consulted for the updated project have been appended to the reference list at the end of the project report
 
 
 
@@ -61,7 +61,8 @@ New resaources consulted for the updated project have been appended to the refer
 Additional Ipython Notebook
 *******************
 
-An additional ipython notebook: 'FinalProject_WriteUp_Algo_POI_ID_Test.ipynb' is added the final_projec folder, this includes all the working done to updated the project report.
+An additional ipython notebook: 'FinalProject_WriteUp_Algo_POI_ID_Test.ipynb' is added the final_project folder, this includes all the working done to updated the project report.
+
 
 
 
